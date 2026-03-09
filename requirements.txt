@@ -10,7 +10,7 @@ langchain-chroma==0.1.4
 langchain-huggingface==0.0.3
 
 chromadb==0.5.3
-faiss
+faiss-cpu
 
 pypdf==4.3.1
 beautifulsoup4==4.12.3
