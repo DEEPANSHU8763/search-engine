@@ -10,7 +10,6 @@ chromadb==0.4.24
 pypdf
 beautifulsoup4
 python-dotenv
-sentence-transformers
 
 arxiv
 wikipedia
