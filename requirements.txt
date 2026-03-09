@@ -7,12 +7,12 @@ langchain-groq==0.1.9
 langchain-chroma==0.1.4
 langchain-huggingface==0.0.3
 
-chromadb==0.5.3
+
+chromadb==0.4.24
 
 pypdf==4.3.1
 beautifulsoup4==4.12.3
 python-dotenv==1.0.1
-tiktoken==0.7.0
 sentence-transformers==2.7.0
 
 arxiv
