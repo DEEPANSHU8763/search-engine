@@ -1,18 +1,18 @@
-streamlit==1.37.0
+streamlit
 
-langchain==0.2.16
-langchain-core==0.2.43
-langchain-community==0.2.16
-langchain-groq==0.1.9
-langchain-chroma==0.1.4
-langchain-huggingface==0.0.3
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
 
-chromadb==0.4.24
+chromadb
 
-pypdf==4.3.1
-beautifulsoup4==4.12.3
-python-dotenv==1.0.1
-sentence-transformers==2.7.0
+pypdf
+beautifulsoup4
+python-dotenv
+sentence-transformers
 
 arxiv
 wikipedia
