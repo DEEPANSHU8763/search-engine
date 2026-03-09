@@ -16,3 +16,4 @@ sentence-transformers==2.7.0
 
 arxiv
 wikipedia
+pillow==10.3.0
